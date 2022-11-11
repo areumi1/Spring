@@ -1,0 +1,12 @@
+package aop1_xml;
+
+import org.aopalliance.intercept.Joinpoint;
+
+import jdk.nashorn.internal.runtime.Context.ThrowErrorManager;
+
+public class LoggingAdvice {
+
+	public void before(Joinpoint point)throws ThrowErrorManager{
+		
+	}
+}

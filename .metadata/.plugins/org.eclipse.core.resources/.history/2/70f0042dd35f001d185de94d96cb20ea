@@ -1,0 +1,10 @@
+package aop1_xml;
+
+import org.aspectj.lang.JoinPoint;
+
+public class LoggingAdvice {
+
+	public void before(JoinPointnt point)throws Throwable{
+		
+	}
+}

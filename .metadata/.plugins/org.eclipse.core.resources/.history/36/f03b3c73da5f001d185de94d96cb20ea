@@ -1,0 +1,6 @@
+package aop2_annotation;
+
+public class Snippet {
+	  베스트 상품 :  slider로 만들어 설정 시간에 따라 이미지 변경
+}
+

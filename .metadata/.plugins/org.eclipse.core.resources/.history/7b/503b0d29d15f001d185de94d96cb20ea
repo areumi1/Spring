@@ -1,0 +1,7 @@
+package aop1_xml;
+
+public interface MessageBeam {
+	void sayHello();
+	void enSayHello();
+	void test();
+}

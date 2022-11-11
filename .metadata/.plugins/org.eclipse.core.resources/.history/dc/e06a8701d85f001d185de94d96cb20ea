@@ -1,0 +1,11 @@
+package aop1_xml;
+
+import org.aspectj.lang.ProceedingJoinPoint;
+
+public class SampelAdvice {
+	
+	public Object around(ProceedingJoinPoint point) throws Throwable{
+		tring methodName = point.getSignature().getName();
+	}
+
+}
